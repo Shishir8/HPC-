@@ -1,0 +1,10 @@
+nvcc -o CudaPasswordCracking CudaPasswordCracking.cuTime elapsed was 471882017ns or 0.471882017s
+Time elapsed was 471882017ns or 0.471882017s
+Time elapsed was 487156566ns or 0.487156566s
+Time elapsed was 488403881ns or 0.488403881s
+Time elapsed was 467632365ns or 0.467632365s
+Time elapsed was 476685182ns or 0.476685182s
+Time elapsed was 466963001ns or 0.466963001s
+Time elapsed was 498736309ns or 0.498736309s
+Time elapsed was 485019017ns or 0.485019017s
+
